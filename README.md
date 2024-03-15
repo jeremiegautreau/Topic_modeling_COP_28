@@ -3,7 +3,7 @@
 The objective was to extract topics from a corpus of tweet of different French participants at the COP28 (Government, politics, companies, and NGO).  
 The second objective was to analyze the link between the topics and the participants to better understand their interests and goals in the COP28.
 
-Methodology:  
+**Methodology:**  
 Topic modeling with BERT topic.  
   -Sentence embedding  
   -Dimensionality reduction (UMAP)  
