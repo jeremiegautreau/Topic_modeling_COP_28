@@ -1,7 +1,7 @@
-# Topic_modeling_COP_28
+# Topic modeling COP 28
 
-The objectif was to extract topics from a corpus of tweet of different french participants at the COP28 (Government, politics, companies and NGO).  
-The second objectif was to analyse the link between the topics and the participants to better understand their interests and goals in the COP28.
+The objective was to extract topics from a corpus of tweet of different French participants at the COP28 (Government, politics, companies, and NGO).  
+The second objective was to analyze the link between the topics and the participants to better understand their interests and goals in the COP28.
 
 Methodology:  
 Topic modeling with BERT topic.  
