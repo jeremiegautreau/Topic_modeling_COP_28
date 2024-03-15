@@ -7,7 +7,7 @@ Methodology:
 Topic modeling with BERT topic.  
   -Sentence embedding  
   -Dimensionality reduction (UMAP)  
-  -Clustering with HDBSCAN
+  -Clustering with HDBSCAN  
   -Topic representation
 
 ![image](https://github.com/jeremiegautreau/Topic_modeling_COP_28/assets/126112031/5fccd14c-c9e0-4c5e-880d-f50c6608b063)
